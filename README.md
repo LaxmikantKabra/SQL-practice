@@ -6,3 +6,4 @@ This repository contains practice files for SQL exercises and projects. The file
 
 - **SQL Scripts**: Individual SQL files demonstrating different queries and techniques.
 - **Sample Data**: CSV or SQL files containing sample data for practice.
+- **Outputs**: text files containing outputs of SQL scripts
